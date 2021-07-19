@@ -1,5 +1,3 @@
-Tutorial by Daily Tuition
-
 ** Libraries Used **
 1. Google fonts
 2. Font awesome
